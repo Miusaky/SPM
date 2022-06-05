@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '3',
 			name: 'GH',
 			icon: 'github',
-			link: 'https://github.com/Miusaky/repositories',
+			link: 'https://github.com/Miusaky?tab=repositories',
 		},
 	],
 
