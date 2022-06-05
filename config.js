@@ -89,6 +89,47 @@ const CONFIG = {
 		},
 	],
 	
+	
+	secondButtonsContainer: [
+		{
+			id: '4',
+			name: 'GIT',
+			icon: 'github',
+			link: 'https://github.com/',
+		},
+		{
+			id: '5',
+			name: 'DOCKER',
+			icon: 'package',
+			link: 'http://192.168.1.253:9000/',
+		},
+		{
+			id: '3',
+			name: 'ENDEAVOUR',
+			icon: 'rocket',
+			link: 'https://forum.endeavouros.com/',
+		},
+		{
+			id: '1',
+			name: 'MB',
+			icon: 'server',
+			link: 'http://192.168.1.253:81',
+		},
+		{
+			id: '6',
+			name: 'FIN',
+			icon: 'play-circle',
+			link: 'http://192.168.1.253:8096',
+		},
+		{
+			id: '2',
+			name: 'DL',
+			icon: 'download',
+			link: 'http://192.168.1.253:9091/transmission/web/',
+		},
+	],
+	
+	
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
