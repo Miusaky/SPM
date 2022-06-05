@@ -53,27 +53,27 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'QXR',
+			name: 'QxR',
 			icon: 'download',
-			link: 'https://www.1337x.to/user/QXR/',
+			link: 'https://1337x.to/user/qxr/',
 		},
 		{
 			id: '2',
 			name: 'LNX',
 			icon: 'download',
-			link: 'https://www.1337x.to/user/johncena141/',
+			link: 'https://1337x.to/user/johncena141/',
 		},
 		{
 			id: '5',
-			name: 'SNP',
+			name: 'snahp',
 			icon: 'download',
-			link: 'https://fora.snahp.eu/',
+			link: 'https://fora.snahp.eu',
 		},
 		{
-			id: '3',
-			name: 'REDDIT',
-			icon: 'github',
-			link: 'https://github.com/Miusaky/repositories'',
+			id: '4',
+			name: 'FF20',
+			icon: 'gamepad',
+			link: 'https://surrenderat20.net'
 		},
 		{
 			id: '6',
@@ -82,14 +82,13 @@ const CONFIG = {
 			link: 'https://filmschoolrejects.com/',
 		},
 		{
-			id: '4',
-			name: 'FF20',
-			icon: 'gamepad',
-			link: 'https://www.surrenderat20.net',
+			id: '3',
+			name: 'GH',
+			icon: 'github',
+			link: 'https://github.com/Miusaky/repositories',
 		},
 	],
-	
-	
+
 	secondButtonsContainer: [
 		{
 			id: '4',
@@ -128,8 +127,7 @@ const CONFIG = {
 			link: 'http://192.168.1.253:9091/transmission/web/',
 		},
 	],
-	
-	
+
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
