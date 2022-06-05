@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'gamepad',
-			icon: 'glasses',
-			link: 'https://www.hckrnws.com/',
+			name: 'FF20',
+			icon: 'gamepad',
+			link: 'https://www.surrenderat20.net',
 		},
 	],
 	
